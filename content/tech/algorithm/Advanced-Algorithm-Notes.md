@@ -1,6 +1,11 @@
-# Advanced Algorithms — Notes
+---
+title: "Advanced Algorithms"
+date: 2026-05-31
+summary: "These algorithms are used in Modern Distributed System. Most of them are fundation of some middlewares. This note showes the details of each algorithm."
+draft: false
+---
 
-> These algorithms are used in Modern Distributed System. Most of them are fundation of some middlewares.
+> These algorithms are used in Modern Distributed System. Most of them are fundation of some middlewares. This note showes the details of each algorithm.
 
 ---
 

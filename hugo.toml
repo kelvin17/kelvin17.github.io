@@ -21,8 +21,8 @@ ShowCodeCopyButtons = true
 ShowToc = true
 
 [params.homeInfoParams]
-Title = "Welcome"
-Content = "技术基础(Java/分布式/AI) / 系统设计 / 随笔"
+Title = "Welcome to BlackBear Blog"
+Content = "技术基础(Java/算法/AI) / 系统设计(金融系统架构/大数据系统架构) / 随笔(技术史话,阅读笔记)"
 
 [menu]
 
