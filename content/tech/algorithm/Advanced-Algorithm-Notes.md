@@ -1,8 +1,6 @@
 # Advanced Algorithms — Notes
 
 > These algorithms are used in Modern Distributed System. Most of them are fundation of some middlewares.
-> Topics: probabilistic data structures, distance oracles, approximate nearest neighbour,
-> distributed graph algorithms, streaming, sketches, MPC, dynamic connectivity.
 
 ---
 
@@ -13,7 +11,7 @@
 3. [Approximate Nearest Neighbour & LSH](#3-approximate-nearest-neighbour--lsh)
 4. [Distributed Algorithms — Breaking Symmetry (Coloring)](#4-distributed-algorithms--breaking-symmetry-coloring)
 5. [Distributed Graph Algorithms — SSSP, BFS, Leader Election, APSP](#5-distributed-graph-algorithms--sssp-bfs-leader-election-apsp)
-6. [Monte Carlo vs Las Vegas, and Δ+1 Coloring](#6-monte-carlo-vs-las-vegas-and-1-coloring)
+6. [Monte Carlo vs Las Vegas, and Coloring](#6-monte-carlo-vs-las-vegas-and-1-coloring)
 7. [Streaming — Frequent Elements & Reservoir Sampling](#7-streaming--frequent-elements--reservoir-sampling)
 8. [Streaming — Distinct Elements (AMS/Tidemark) & Counting (Morris)](#8-streaming--distinct-elements-amstidemark--counting-morris)
 9. [Sketches — Count-Min & Range Queries](#9-sketches--count-min--range-queries)
@@ -394,7 +392,7 @@ $$
 
 ---
 
-## 6. Monte Carlo vs Las Vegas, and Δ+1 Coloring
+## 6. Monte Carlo vs Las Vegas, and Coloring
 
 | | Monte Carlo | Las Vegas |
 |---|---|---|
