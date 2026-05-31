@@ -20,6 +20,10 @@ ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowToc = true
 
+[params.homeInfoParams]
+Title = "Welcome"
+Content = "技术基础(Java/分布式/AI) / 系统设计 / 随笔"
+
 [menu]
 
 [[menu.main]]
