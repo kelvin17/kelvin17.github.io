@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Black Bear Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Black Bear Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/tech/algorithm/advanced-algorithm-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech/algorithm/advanced-algorithm-notes/</guid>
+      <description>&lt;h1 id=&#34;advanced-algorithms--notes&#34;&gt;Advanced Algorithms — Notes&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;These algorithms are used in Modern Distributed System. Most of them are fundation of some middlewares.
+Topics: probabilistic data structures, distance oracles, approximate nearest neighbour,
+distributed graph algorithms, streaming, sketches, MPC, dynamic connectivity.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#1-bloom-filter&#34;&gt;Bloom Filter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#2-distance-oracles&#34;&gt;Distance Oracles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#3-approximate-nearest-neighbour--lsh&#34;&gt;Approximate Nearest Neighbour &amp;amp; LSH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#4-distributed-algorithms--breaking-symmetry-coloring&#34;&gt;Distributed Algorithms — Breaking Symmetry (Coloring)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#5-distributed-graph-algorithms--sssp-bfs-leader-election-apsp&#34;&gt;Distributed Graph Algorithms — SSSP, BFS, Leader Election, APSP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#6-monte-carlo-vs-las-vegas-and-1-coloring&#34;&gt;Monte Carlo vs Las Vegas, and Δ+1 Coloring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#7-streaming--frequent-elements--reservoir-sampling&#34;&gt;Streaming — Frequent Elements &amp;amp; Reservoir Sampling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#8-streaming--distinct-elements-amstidemark--counting-morris&#34;&gt;Streaming — Distinct Elements (AMS/Tidemark) &amp;amp; Counting (Morris)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#9-sketches--count-min--range-queries&#34;&gt;Sketches — Count-Min &amp;amp; Range Queries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#10-graph-streaming--connectivity-bipartiteness-spanner&#34;&gt;Graph Streaming — Connectivity, Bipartiteness, Spanner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#11-massively-parallel-computation-mpc--sorting--mst&#34;&gt;Massively Parallel Computation (MPC) — Sorting &amp;amp; MST&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-dynamic-graph-connectivity&#34;&gt;Dynamic Graph Connectivity&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-bloom-filter&#34;&gt;1. Bloom Filter&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Problem.&lt;/strong&gt; Maintain a set $X = {x_1, \dots, x_n} \subseteq U$ supporting two operations:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

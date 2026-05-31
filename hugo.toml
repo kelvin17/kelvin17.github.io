@@ -1,0 +1,38 @@
+baseURL = "https://kelvin17.github.io/"
+languageCode = "en-us"
+title = "Black Bear Blog"
+theme = "PaperMod"
+
+[pagination]
+pagerSize = 10
+
+[params]
+env = "production"
+title = "My Tech Blog"
+description = "Software Fundation / Architecture & System Design/ AI/ Essay"
+defaultTheme = "auto"
+math = true
+
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+
+[menu]
+
+[[menu.main]]
+name = "Software Fundation"
+url = "/tech/"
+weight = 1
+
+[[menu.main]]
+name = "Architecture & System Design"
+url = "/system-design/"
+weight = 2
+
+[[menu.main]]
+name = "Essay"
+url = "/essay/"
+weight = 3
