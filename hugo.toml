@@ -1,6 +1,6 @@
 baseURL = "https://kelvin17.github.io/"
 languageCode = "en-us"
-title = "Black Bear Blog"
+title = "BlackBear Tech Blog"
 theme = "PaperMod"
 
 [pagination]
